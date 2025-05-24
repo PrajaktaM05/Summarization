@@ -3,13 +3,13 @@
 ## 📝 Project Overview
 This Python project fetches the latest news articles about any company you search for and provides concise summaries. It uses web scraping to extract news content and Hugging Face transformer models for generating easy-to-understand summaries. The tool helps users quickly get the gist of current news without reading lengthy articles.
 
-##  Features
+## 📌 Features
 - Search news by company name  
 - Extract news article content automatically  
 - Generate short summaries using AI models  
 - Display top 10 news headlines with summaries
 
-## 👨‍💻 Technologies Used
+## 🖥 Technologies Used
 - Python: Programming language
 
 - requests: Fetching web pages
